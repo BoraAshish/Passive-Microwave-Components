@@ -1,4 +1,4 @@
-# Patch Antenna
+# Two Element Array Patch Antenna
 -------------------------------------------------------  
 Analysis of various parameters have been included. 
 
